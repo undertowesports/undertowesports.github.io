@@ -6,9 +6,9 @@ This repository contains all the links to our other repositories.
 * [Undertow eSports’ Gamepad Viewer](/gamepad-viewer/): Undertow-themed gamepad viewers
 
 ## Bugs
-If you have found a bug and would like to report it, [create an issue](https://github.com/undertowesports/rl-modded/issues).
+If you have found a bug and would like to report it, [create an issue](https://github.com/undertowesports/undertowesports.github.io/issues).
 
-If you have found a bug and would like to fix it, [create a pull request](https://github.com/undertowesports/rl-modded/pulls).
+If you have found a bug and would like to fix it, [create a pull request](https://github.com/undertowesports/undertowesports.github.io/pulls).
 
 
 #### License: MIT
